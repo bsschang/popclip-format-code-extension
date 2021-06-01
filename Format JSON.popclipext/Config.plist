@@ -20,7 +20,7 @@
       <key>Image File</key>
       <string>icon.png</string>
       <key>Script Interpreter</key>
-      <string>/usr/local/bin/node</string>
+      <string>/Users/brian/.nvm/versions/node/v14.16.1/bin/node</string>
       <key>Shell Script File</key>
       <string>main.js</string>
     </dict>
